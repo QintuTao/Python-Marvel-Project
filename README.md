@@ -3,7 +3,7 @@ A project that uses the official marvel API.
 
 <hr>
 
-##Stage One: Defining and Idealing
+<h2>Stage One: Defining and Idealing</h2>
 Since recently I read about an article talking about the marvel's official API and I thought that is interesting. I am expecting myself to build a software that allows users to look up any marvel-related info. Although I am not a marvel person at all, I would love to give this comic API a try. 
 
 Any People who are interested in the large universe created by Marvel would be a potential user of this software. Some possible negative consequence is that this can be a story spoiler. 
