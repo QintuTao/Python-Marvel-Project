@@ -1,3 +1,5 @@
+# User will be able to checkout any characters, events and comics by using this programm
+
 from marvel import Marvel
 
 # Get both keys from my personal account ---- Roederor
