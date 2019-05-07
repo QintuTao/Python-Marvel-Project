@@ -14,9 +14,29 @@ characters = marvel.characters
 comics = marvel.comics
 series = marvel.series
 creator = marvel.creators
-story = marvel.stories
+stories = marvel.stories
 events = marvel.events
 
+# Get the total number of each types of request
+total = [
+    characters.all()['data']['total'],
+    events.all()['data']['total'],
+    stories.all()['data']['total'],
+    series.all()['data']['total'],
+]
+
+# The introduction fuction
+def printIntro():
+    print(f"Hello, Dear User,\n"
+          f"    Welcome to the Simple Python Marvel Software.\n"
+          f"    You can look up anything in the {total[3]}, including {total[2]} stories with {total[1]} events and {total[0]} characters!\n")
+    print('''
+------------------------------------------------------------------------------------------------------
+Please Enter What You Are Looking for. It can be a name of character, a series number, a comic name or a story. If you need help, please enter "help" (without quotation marks)
+    ''')
 
 if __name__ == '__main__':
-    print(comics.all())
+    #Introduction
+    printIntro()
+
+
