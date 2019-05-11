@@ -35,6 +35,13 @@ def printIntro():
 Please Enter What You Are Looking for. It can be a name of character, a series number, a comic name or a story. If you need help, please enter "help" (without quotation marks)
     ''')
 
+# the questioning function
+def ask(ask_num:int):
+    user_input = []
+    for i in range(ask_num):
+        user_input.append(input())
+    return user_input
+
 if __name__ == '__main__':
     #Introduction
     printIntro()
