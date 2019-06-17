@@ -14,10 +14,10 @@ Some potential difficulties could be the convinience of this software. I will ad
 
 The Project is expected to be build primarily by using PyCharm on a Mac, and git will be used as a version control tool. 
 
-##Stage Two: Prototyping and Testing 
+## Stage Two: Prototyping and Testing 
 Originally it is designed as a command line application, which means that it is only executable in terminal or the command prompt. Users has to type in the command so that the software can respond to their requests. 
 
-##Stage Three: Discussion
+## Stage Three: Discussion
 This software is small, and probably not many potential users are expected. Therefore, a user tests is not as necessary as other projects (Also due to its small range of users, it makes it harder to conduct a user research)
 
-##Stage Four: Demo
+## Stage Four: Demo
