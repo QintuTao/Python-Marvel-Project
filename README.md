@@ -13,3 +13,11 @@ This project is meant to be build mainly in Python 3 and the Marvel API; however
 Some potential difficulties could be the convinience of this software. I will add an User Interface(UI) in it, but whether it actually gives the users a good feel depends on its design and functionality.
 
 The Project is expected to be build primarily by using PyCharm on a Mac, and git will be used as a version control tool. 
+
+##Stage Two: Prototyping and Testing 
+Originally it is designed as a command line application, which means that it is only executable in terminal or the command prompt. Users has to type in the command so that the software can respond to their requests. 
+
+##Stage Three: Discussion
+This software is small, and probably not many potential users are expected. Therefore, a user tests is not as necessary as other projects (Also due to its small range of users, it makes it harder to conduct a user research)
+
+##Stage Four: Demo
