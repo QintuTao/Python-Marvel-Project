@@ -21,4 +21,4 @@ Originally it is designed as a command line application, which means that it is 
 This software is small, and probably not many potential users are expected. Therefore, a user tests is not as necessary as other projects (Also due to its small range of users, it makes it harder to conduct a user research)
 
 ## Stage Four: Demo
-![Demo](https://raw.githubcontent.com/QintuTao/Python-Marvel-Project/image.png)
+![Demo](image.png)
